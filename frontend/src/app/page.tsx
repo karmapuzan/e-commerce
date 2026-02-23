@@ -59,6 +59,10 @@ export default function Home() {
             Documentation
           </a>
         </div>
+        <div className="text-sm text-gray-50">
+          <h2>Something</h2>
+
+        </div>
       </main>
     </div>
   );
