@@ -1,0 +1,1092 @@
+[
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "importPath": "auth.security",
+        "description": "auth.security",
+        "isExtraImport": true,
+        "detail": "auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "importPath": "auth.security",
+        "description": "auth.security",
+        "isExtraImport": true,
+        "detail": "auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "database.database",
+        "description": "database.database",
+        "isExtraImport": true,
+        "detail": "database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database.database",
+        "description": "database.database",
+        "isExtraImport": true,
+        "detail": "database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database.database",
+        "description": "database.database",
+        "isExtraImport": true,
+        "detail": "database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database.database",
+        "description": "database.database",
+        "isExtraImport": true,
+        "detail": "database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database.database",
+        "description": "database.database",
+        "isExtraImport": true,
+        "detail": "database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database.database",
+        "description": "database.database",
+        "isExtraImport": true,
+        "detail": "database.database",
+        "documentation": {}
+    },
+    {
+        "label": "create_table",
+        "importPath": "database.database",
+        "description": "database.database",
+        "isExtraImport": true,
+        "detail": "database.database",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.users",
+        "description": "models.users",
+        "isExtraImport": true,
+        "detail": "models.users",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid.",
+        "description": "uuid.",
+        "detail": "uuid.",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "importPath": "backend.app.auth.auth",
+        "description": "backend.app.auth.auth",
+        "isExtraImport": true,
+        "detail": "backend.app.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "backend.app.auth.auth",
+        "description": "backend.app.auth.auth",
+        "isExtraImport": true,
+        "detail": "backend.app.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "backend.database.database",
+        "description": "backend.database.database",
+        "isExtraImport": true,
+        "detail": "backend.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsConfigDict",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "RoleChecker",
+        "kind": 6,
+        "importPath": "backend.app.auth.auth",
+        "description": "backend.app.auth.auth",
+        "peekOfCode": "class RoleChecker:\n    def __init__(self, allowed_roles):\n        self.allowed_roles = allowed_roles\n    def __call__(self, user: Annotated[UserModel, Depends(get_current_active_user)]):\n        if user.role in self.allowed_roles:\n            return True\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,\n            detail=\"You don't have enough permissions\",\n        )",
+        "detail": "backend.app.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "kind": 2,
+        "importPath": "backend.app.auth.auth",
+        "description": "backend.app.auth.auth",
+        "peekOfCode": "def authenticate_user(\n    email: str,\n    password: str,\n    db: Session = Depends(get_db),\n):\n    user = db.query(UserModel).filter(UserModel.email == email).first()\n    if not user:\n        return False\n    if not pwd_context.verify(password, user.password):\n        return False",
+        "detail": "backend.app.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "backend.app.auth.auth",
+        "description": "backend.app.auth.auth",
+        "peekOfCode": "def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.now(timezone.utc) + expires_delta\n    else:\n        expire = datetime.now(timezone.utc) + timedelta(\n            minutes=Settings.ACCESS_TOKEN_EXPIRE_MINUTES\n        )\n    to_encode.update(\n        {",
+        "detail": "backend.app.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "backend.app.auth.auth",
+        "description": "backend.app.auth.auth",
+        "peekOfCode": "def get_current_user(\n    token: Annotated[str, Depends(oauth2_scheme)],\n    db: Session = Depends(get_db),\n):\n    try:\n        payload = jwt.decode(\n            token, Settings.SECRET_KEY, algorithms=[Settings.ALGORITHM]\n        )\n        user_id = payload.get(\"sub\")\n        if user_id is None:",
+        "detail": "backend.app.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_active_user",
+        "kind": 2,
+        "importPath": "backend.app.auth.auth",
+        "description": "backend.app.auth.auth",
+        "peekOfCode": "def get_current_active_user(\n    current_user: Annotated[UserModel, Depends(get_current_user)],\n):\n    if current_user.disabled:\n        raise HTTPException(\n            status_code=status.HTTP_400_BAD_REQUEST, detail=\"Inactive User\"\n        )\n    return current_user\ndef validate_refresh_token(\n    token: Annotated[str, Depends(oauth2_scheme)], db: Session = Depends(get_db)",
+        "detail": "backend.app.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "validate_refresh_token",
+        "kind": 2,
+        "importPath": "backend.app.auth.auth",
+        "description": "backend.app.auth.auth",
+        "peekOfCode": "def validate_refresh_token(\n    token: Annotated[str, Depends(oauth2_scheme)], db: Session = Depends(get_db)\n):\n    try:\n        payload = jwt.decode(\n            token, Settings.SECRET_KEY, algorithms=[Settings.ALGORITHM]\n        )\n        user_id = payload.get(\"sub\")\n        role = payload.get(\"role\")\n        if user_id is None or role is None:",
+        "detail": "backend.app.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "credentials_exception",
+        "kind": 5,
+        "importPath": "backend.app.auth.auth",
+        "description": "backend.app.auth.auth",
+        "peekOfCode": "credentials_exception = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,\n    detail=\"Could not validate credentials\",\n    headers={\"WWW-Authenticate\": \"Bearer\"},\n)\ndef authenticate_user(\n    email: str,\n    password: str,\n    db: Session = Depends(get_db),\n):",
+        "detail": "backend.app.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "backend.app.auth.security",
+        "description": "backend.app.auth.security",
+        "peekOfCode": "def hash_password(password: str):\n    return pwd_context.hash(password)\ndef verify_password(hashed_password: str, password: str):\n    return pwd_context.verify(hashed_password, password)",
+        "detail": "backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "backend.app.auth.security",
+        "description": "backend.app.auth.security",
+        "peekOfCode": "def verify_password(hashed_password: str, password: str):\n    return pwd_context.verify(hashed_password, password)",
+        "detail": "backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "backend.app.auth.security",
+        "description": "backend.app.auth.security",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"argon2\"], deprecated=\"auto\")\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/auth/login\")\ndef hash_password(password: str):\n    return pwd_context.hash(password)\ndef verify_password(hashed_password: str, password: str):\n    return pwd_context.verify(hashed_password, password)",
+        "detail": "backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "backend.app.auth.security",
+        "description": "backend.app.auth.security",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/auth/login\")\ndef hash_password(password: str):\n    return pwd_context.hash(password)\ndef verify_password(hashed_password: str, password: str):\n    return pwd_context.verify(hashed_password, password)",
+        "detail": "backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "backend.app.models.category",
+        "description": "backend.app.models.category",
+        "peekOfCode": "class Category(Base):\n    __tablename__ = \"category\"\n    id = Column(\n        String,\n        primary_key=True,\n        index=True,\n        default=lambda: str(uuid.uuid4()),\n        unique=True,\n    )\n    name = Column(String(100), nullable=True)",
+        "detail": "backend.app.models.category",
+        "documentation": {}
+    },
+    {
+        "label": "ProductStatus",
+        "kind": 6,
+        "importPath": "backend.app.models.product",
+        "description": "backend.app.models.product",
+        "peekOfCode": "class ProductStatus(enum.Enum):\n    PENDING = \"PENDING\"\n    COMPLETED = \"COMPLETED\"\nclass Product(Base):\n    __tablename__ = \"products\"\n    id = Column(\n        String,\n        primary_key=True,\n        index=True,\n        default=lambda: str(uuid.uuid4()),",
+        "detail": "backend.app.models.product",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "backend.app.models.product",
+        "description": "backend.app.models.product",
+        "peekOfCode": "class Product(Base):\n    __tablename__ = \"products\"\n    id = Column(\n        String,\n        primary_key=True,\n        index=True,\n        default=lambda: str(uuid.uuid4()),\n        unique=True,\n    )\n    vendor_id = Column(String, ForeignKey(\"vendors.id\"), nullable=False)",
+        "detail": "backend.app.models.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImage",
+        "kind": 6,
+        "importPath": "backend.app.models.product_image",
+        "description": "backend.app.models.product_image",
+        "peekOfCode": "class ProductImage(Base):\n    __tablename__ = \"product_images\"\n    id = Column(\n        String,\n        primary_key=True,\n        index=True,\n        default=lambda: str(uuid.uuid4()),\n        unique=True,\n    )\n    product_id = Column(String, ForeignKey(\"products.id\"), nullable=False)",
+        "detail": "backend.app.models.product_image",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "kind": 6,
+        "importPath": "backend.app.models.users",
+        "description": "backend.app.models.users",
+        "peekOfCode": "class UserRole(enum.Enum):\n    CUSTOMER = \"CUSTOMER\"\n    VENDOR = \"VENDOR\"\n    ADMIN = \"CANCELLED\"\nclass User(Base):\n    __tablename__ = \"users\"\n    id = Column(\n        String,\n        primary_key=True,\n        index=True,",
+        "detail": "backend.app.models.users",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.app.models.users",
+        "description": "backend.app.models.users",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(\n        String,\n        primary_key=True,\n        index=True,\n        default=lambda: str(uuid.uuid4()),\n        unique=True,\n    )\n    role = Column(Enum(UserRole), default=UserRole.CUSTOMER)",
+        "detail": "backend.app.models.users",
+        "documentation": {}
+    },
+    {
+        "label": "Vendor",
+        "kind": 6,
+        "importPath": "backend.app.models.vendor",
+        "description": "backend.app.models.vendor",
+        "peekOfCode": "class Vendor(Base):\n    __tablename__ = \"vendors\"\n    id = Column(\n        String,\n        primary_key=True,\n        index=True,\n        default=lambda: str(uuid.uuid4()),\n        unique=True,\n    )\n    user_id = Column(String, ForeignKey(\"users.id\"), nullable=False)",
+        "detail": "backend.app.models.vendor",
+        "documentation": {}
+    },
+    {
+        "label": "UserBase",
+        "kind": 6,
+        "importPath": "backend.app.schemas.users",
+        "description": "backend.app.schemas.users",
+        "peekOfCode": "class UserBase(BaseModel):\n    email: EmailStr\nclass UserCreate(UserBase):\n    password: str = Field(min_length=5)\nclass UserResponse(UserBase):\n    id: str\n    first_name: str\n    last_name: str\n    is_active: bool\n    role: str",
+        "detail": "backend.app.schemas.users",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "backend.app.schemas.users",
+        "description": "backend.app.schemas.users",
+        "peekOfCode": "class UserCreate(UserBase):\n    password: str = Field(min_length=5)\nclass UserResponse(UserBase):\n    id: str\n    first_name: str\n    last_name: str\n    is_active: bool\n    role: str\n    class Config:\n        from_attribute = True",
+        "detail": "backend.app.schemas.users",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.users",
+        "description": "backend.app.schemas.users",
+        "peekOfCode": "class UserResponse(UserBase):\n    id: str\n    first_name: str\n    last_name: str\n    is_active: bool\n    role: str\n    class Config:\n        from_attribute = True\nclass LoginRequest(BaseModel):\n    email: EmailStr",
+        "detail": "backend.app.schemas.users",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.users",
+        "description": "backend.app.schemas.users",
+        "peekOfCode": "class LoginRequest(BaseModel):\n    email: EmailStr\n    password: str\nclass Token(BaseModel):\n    msg: str\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"",
+        "detail": "backend.app.schemas.users",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "backend.app.schemas.users",
+        "description": "backend.app.schemas.users",
+        "peekOfCode": "class Token(BaseModel):\n    msg: str\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"",
+        "detail": "backend.app.schemas.users",
+        "documentation": {}
+    },
+    {
+        "label": "login_for_access_token",
+        "kind": 2,
+        "importPath": "backend.app.utils.auth",
+        "description": "backend.app.utils.auth",
+        "peekOfCode": "def login_for_access_token(\n    form_data: Annotated[OAuth2PasswordRequestForm, Depends()],\n    db: Session = Depends(get_db),\n):\n    user = authenticate_user(\n        email=form_data.username,\n        password=form_data.password,\n        db=db,\n    )\n    if not user:",
+        "detail": "backend.app.utils.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "backend.app.utils.config",
+        "description": "backend.app.utils.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    SECRET_KEY: str\n    ALGORITHM: str = \"HS256\"\n    ACCESS_TOKEN_EXPIRE_MINUTES: int = 30\n    REFRESH_TOKEN_EXPIRE_MINUTES: int = 120\n    DATABASE_URL: str\n    model_config = SettingsConfigDict(env_file=\".env\", case_sensitive=True)\nsettings = Settings()  # pyright: ignore[reportCallIssue]",
+        "detail": "backend.app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "backend.app.utils.config",
+        "description": "backend.app.utils.config",
+        "peekOfCode": "settings = Settings()  # pyright: ignore[reportCallIssue]",
+        "detail": "backend.app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "read_root",
+        "kind": 2,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "def read_root():\n    return {\"status\": \"ok\"}\nif __name__ == \"__main__\":\n    import uvicorn\n    uvicorn.run(\"main:app\", host=\"0.0.0.0\", port=8000, reload=True)",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "app = FastAPI(title=\"E-commerce Backend API\", description=\"apis for backend\")\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\n@app.get(\"/health\")\ndef read_root():",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "create_table",
+        "kind": 2,
+        "importPath": "backend.database.database",
+        "description": "backend.database.database",
+        "peekOfCode": "def create_table():\n    Base.metadata.create_all(bind=engine)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "backend.database.database",
+        "description": "backend.database.database",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "backend.database.database",
+        "description": "backend.database.database",
+        "peekOfCode": "DATABASE_URL = os.getenv(\"DATABASE_URL\")\nengine = create_engine(DATABASE_URL, echo=True)  # type: ignore\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef create_table():\n    Base.metadata.create_all(bind=engine)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db",
+        "detail": "backend.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "backend.database.database",
+        "description": "backend.database.database",
+        "peekOfCode": "engine = create_engine(DATABASE_URL, echo=True)  # type: ignore\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef create_table():\n    Base.metadata.create_all(bind=engine)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:",
+        "detail": "backend.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "backend.database.database",
+        "description": "backend.database.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef create_table():\n    Base.metadata.create_all(bind=engine)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "backend.database.database",
+        "description": "backend.database.database",
+        "peekOfCode": "Base = declarative_base()\ndef create_table():\n    Base.metadata.create_all(bind=engine)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules..pnpm.flat-cache@4.0.1.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules..pnpm.flat-cache@4.0.1.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "frontend.node_modules..pnpm.flat-cache@4.0.1.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules..pnpm.flat-cache@4.0.1.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules..pnpm.flat-cache@4.0.1.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "frontend.node_modules..pnpm.flat-cache@4.0.1.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules..pnpm.flat-cache@4.0.1.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules..pnpm.flat-cache@4.0.1.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules..pnpm.flat-cache@4.0.1.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules..pnpm.flat-cache@4.0.1.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules..pnpm.flat-cache@4.0.1.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules..pnpm.flat-cache@4.0.1.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "frontend.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "frontend.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "frontend.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "frontend.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "documentation": {}
+    }
+]
