@@ -17,4 +17,4 @@ class ProductImage(Base):
     product_id = Column(String, ForeignKey("products.id"), nullable=False)
     image_url = Column(String, nullable=False)
     is_primary = Column(Boolean, default=True)
-    sort_order = Column(Integer, nullable=False)
+    sort_order = Column(Integer, nullable=True)

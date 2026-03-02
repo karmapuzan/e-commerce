@@ -1,0 +1,39 @@
+{
+  "data": {
+    "id": "page_001",
+    "slug": "home-page",
+    "title": "Home Page"
+  },
+  "landing": [
+    {
+    "type": "hero_banner",
+    "order": 1,
+    "content": {
+      "hero": {
+        "type": "banner",
+        "headline": "Welcome to Our Platform",
+        "subtitle": "We deliver the best experience online",
+        "image": {
+          "alt": "Hero Banner Image",
+          "url": "https://example.com/images/hero.jpg"
+        }
+      }
+    }
+  },
+  {
+    "type": "hero_banner",
+    "order": 2,
+    "content": {
+      "hero": {
+        "type": "banner",
+        "headline": "Welcome to Our Platform",
+        "subtitle": "We deliver the best experience online",
+        "image": {
+          "alt": "Hero Banner Image",
+          "url": "https://example.com/images/hero.jpg"
+        }
+      }
+    }
+  }
+]
+}

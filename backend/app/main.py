@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from backend.app.api import auth, user
+from backend.app.api import auth, page, user
 from backend.app.database.database import create_table
 
 create_table()
@@ -14,8 +14,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 app.include_router(auth.router)
 app.include_router(user.router, prefix="/api")
+app.include_router(page.router, prefix="/api")
 
 
 @app.get("/health")
@@ -26,4 +28,4 @@ def read_root():
 if __name__ == "__main__":
     import uvicorn
 
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True, log_level="info")

@@ -27,7 +27,7 @@ class Product(Base):
     base_price = Column(Float, nullable=False)
     status = Column(Enum(ProductStatus), default=ProductStatus.PENDING)
     created_at = Column(DateTime(timezone=True), server_default=func.now())
-    update_at = Column(DateTime(timezone=True), onupdate=func.now())
+    update_at = Column(DateTime(timezone=True), onupdate=func.now(), nullable=True)
     deleted_at = Column(DateTime(timezone=True), nullable=True)
 
     vendor = relationship("Vendor", back_populates="products")
